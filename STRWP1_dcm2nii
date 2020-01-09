@@ -10,7 +10,6 @@ set -e # this command causes the script to exit on error
 rawloc=/QRISdata/Q1240/CAI/Research_19028_Neural_Pathways
 outpath=/30days/uqkgarn1/STRIWP1BIDS
 niidir=/30days/uqkgarn1/STRIWP1BIDS
-dcm2niidir=/home/uqkgarn1/dcm2niix_lnx
 logdir=/30days/uqkgarn1/STRIWP1LOGS
 ####################################################################################################
 
